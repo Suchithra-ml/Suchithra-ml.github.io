@@ -1,3 +1,7 @@
 # Suchithra-ml.github.io
 
-- An experimental website
+<HTML>
+<BODY bgcolor=>
+<H1><B><center>WELCOME</center><B></H1>
+</BODY>
+<HTML>
