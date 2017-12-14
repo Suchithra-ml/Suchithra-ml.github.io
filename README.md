@@ -2,6 +2,6 @@
 
 <HTML>
 <BODY bgcolor=>
-<H1><B><center>WELCOME</center><B></H1>
+<H1><B>WELCOME<B></H1>
 </BODY>
 <HTML>
