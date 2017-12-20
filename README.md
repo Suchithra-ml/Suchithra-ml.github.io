@@ -1,1 +1,6 @@
+
+<HTML>
+<BODY BGCOLOR=#808080>
 <H1><B>WELCOME</B></H1>
+</BODY>
+</HTML>
