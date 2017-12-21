@@ -3,18 +3,20 @@
 <head>
 <style>
 body {
-    background-color: lightblue;
+    background-color: Grey;
 }
 
 h1 {
-    color: white;
+    color: Black;
     text-align: center;
+    font-family: Comic Sans MS;
 }
+
 </style>
 </head>
 <body>
 
-<h1>Welcome/h1>
+<h1>Welcome</h1>
 
 </body>
 </html>
